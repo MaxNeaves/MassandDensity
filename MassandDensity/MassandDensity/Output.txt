@@ -1,0 +1,4 @@
+Mass = 16.20 g
+Density = 2.70 g/cm^3
+Volume = 6.00 cm^3
+6.00 = 16.20 / 2.70
